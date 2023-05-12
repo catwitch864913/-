@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - "\u6B66\u5668"
+  - "\u6B7B\u4EA1"
+  - Enemy2
+  - Boss
+  - "\u602A\u7269\u91CD\u751F\u9EDE"
+  - "\u5E73\u53F0"
+  - "\u9677\u9631"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - "\u76F8\u6A5F\u7BC4\u570D"
+  - "\u7269\u54C1"
+  - "\u6CD5\u8853"
+  - "\u602A\u7269"
+  - "\u6B66\u5668"
+  - "\u6B7B\u4EA1"
+  - "\u7A7F\u8D8A\u5E73\u53F0"
+  - "\u52D5\u756B\u89F8\u767C\u5668"
+  - "\u9053\u5177"
+  - "\u6575\u4EBA\u6B66\u5668"
+  - "\u900F\u660E\u7246\u58C1"
+  - "\u5224\u65B7\u73A9\u5BB6\u53D7\u50B7"
+  - "\u602A\u7269\u91CD\u751F\u9EDE"
+  - "\u50B3\u9001\u9EDE"
+  - "\u9677\u9631"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "\u80CC\u666F"
+    uniqueID: 4261701685
+    locked: 0
+  - name: "\u6A39\u6728"
+    uniqueID: 3731996579
+    locked: 0
+  - name: "\u7269\u54C1"
+    uniqueID: 3738529331
+    locked: 0
+  - name: "\u4E3B\u89D2"
+    uniqueID: 1750497737
+    locked: 0
+  - name: "\u5730\u677F"
+    uniqueID: 3757342551
+    locked: 0
+  - name: "\u7279\u6548"
+    uniqueID: 3077640505
+    locked: 0
+  - name: "UI\u5716\u5C64"
+    uniqueID: 2166309375
+    locked: 0
